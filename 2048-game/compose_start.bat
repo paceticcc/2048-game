@@ -1,3 +1,3 @@
 docker-compose up
-docker-compose down
-docker-compose rm
+::docker-compose down
+::docker-compose rm
